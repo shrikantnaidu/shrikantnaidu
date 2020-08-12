@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Machine Learning and Deep Learning.
 - 🤔 I’m looking for help with Python for Finance.
 - 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Big Data.
-- 📫 How to reach me: ..
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrikant-naidu)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a Gamer turned Programmer.
 
