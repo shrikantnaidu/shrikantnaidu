@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Shrikant 👋
 
-- 🔭 I’m currently working on Time Series Forecasting.
-- 🌱 I’m currently learning Deep Learning, Edge AI, and Time Series Forecasting.
-- 👯 I’m looking to collaborate on Machine Learning and Deep Learning.
-- 🤔 I’m looking for help with Python for Finance.
-- 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Big Data.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrikant-naidu)
-- ⚡ Fun fact: I'm a Gamer turned Programmer.
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shrikant-naidu/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sk_barcaholic)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />][hackerearth]
+
+<br />
