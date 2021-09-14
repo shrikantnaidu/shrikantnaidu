@@ -48,13 +48,13 @@
 [hackerrank]: https://www.hackerearth.com/@shrikantnaidu777
 [hackerearth]: https://www.hackerrank.com/shrikantnaidu777
 
-[python]: "https://www.python.org"
-[tensorflow]:"https://www.tensorflow.org"
-[pytorch]: "https://pytorch.org/"
-[sklearn]:"https://scikit-learn.org/"
-[flask]:"https://flask.palletsprojects.com/"
-[docker]:"https://www.docker.com/"
-[postgres]:"https://www.postgresql.org"
-[mongodb]:"https://www.mongodb.com/"
+[python]:https://www.python.org
+[tensorflow]:https://www.tensorflow.org
+[pytorch]:https://pytorch.org/
+[sklearn]:https://scikit-learn.org/
+[flask]:https://flask.palletsprojects.com/
+[docker]:https://www.docker.com/
+[postgres]:https://www.postgresql.org
+[mongodb]:https://www.mongodb.com/
 
 <!-- [instagram]:  -->
