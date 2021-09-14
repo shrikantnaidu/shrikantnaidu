@@ -18,9 +18,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
-[<img align="left" alt="Pytorch" width="26px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4 "/>]
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Tensorflow" width="32px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
+[<img align="left" alt="Pytorch" width="32px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][pytorch]
+[<img align="left" alt="Sklearn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][sklearn]
+[<img align="left" alt="Flask" width="32px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />][flask]
+[<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
+[<img align="left" alt="Postgres" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgres]
+[<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
 
 
 <br />
@@ -30,7 +35,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-pi-wine.vercel.app//api?username=shrikantnaidu&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shrikant's GitHub Stats" src="https://github-readme-stats-pi-wine.vercel.app//api?username=shrikantnaidu&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -43,5 +48,13 @@
 [hackerrank]: https://www.hackerearth.com/@shrikantnaidu777
 [hackerearth]: https://www.hackerrank.com/shrikantnaidu777
 
+[python]: "https://www.python.org"
+[tensorflow]:"https://www.tensorflow.org"
+[pytorch]: "https://pytorch.org/"
+[sklearn]:"https://scikit-learn.org/"
+[flask]:"https://flask.palletsprojects.com/"
+[docker]:"https://www.docker.com/"
+[postgres]:"https://www.postgresql.org"
+[mongodb]:"https://www.mongodb.com/"
 
 <!-- [instagram]:  -->
