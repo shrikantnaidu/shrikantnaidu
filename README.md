@@ -17,11 +17,12 @@
 ---
 
 ### Languages and Tools:
-<!-- 
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist] -->
 
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank">
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
+[<img align="left" alt="Pytorch" width="26px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4 "/>]
+
+
 <br />
 
 ---
@@ -44,7 +45,3 @@
 
 
 <!-- [instagram]:  -->
-
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
