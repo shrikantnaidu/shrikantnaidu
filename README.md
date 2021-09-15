@@ -1,6 +1,8 @@
 ### Hi there, I'm Shrikant 👋
 
 
+I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
+
 ---
 
 ### Connect with me:
