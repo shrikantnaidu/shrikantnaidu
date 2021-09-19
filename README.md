@@ -1,4 +1,6 @@
-### Hi there, I'm Shrikant 👋
+### Hi there, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+--- 
 
 
 I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
@@ -13,7 +15,7 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 [<img align="left" alt="shrikantnaidu | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="shrikantnaidu | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />][hackerearth]
 [<img align="left" alt="shrikantnaidu | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />][hackerrank]
-
+[<img align="left" alt="shrikantnaidu | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />][steam]
 <br />
 
 ---
@@ -49,6 +51,7 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 [twitter]: https://twitter.com/sk_barcaholic
 [hackerrank]: https://www.hackerearth.com/@shrikantnaidu777
 [hackerearth]: https://www.hackerrank.com/shrikantnaidu777
+[steam]: https://steamcommunity.com/id/shrikantnaidu/
 
 [python]:https://www.python.org
 [tensorflow]:https://www.tensorflow.org
@@ -60,3 +63,6 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 [mongodb]:https://www.mongodb.com/
 
 <!-- [instagram]:  -->
+ 
+ ---
+<!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
