@@ -2,8 +2,17 @@
 
 --- 
 
+<!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
 
 I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
+
+
+- 🔭 I’m currently working on Time Series Forecasting.
+- 🌱 I’m currently learning Deep Learning and Time Series Forecasting.
+- 👯 I’m looking to collaborate on Machine Learning ,Deep Learning and Data Engineering.
+- 🤔 I’m looking for help with Python for Finance.
+- 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Big Data.
+- ⚡ Fun fact: I'm a Gamer turned Programmer.
 
 ---
 
@@ -65,4 +74,3 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 <!-- [instagram]:  -->
  
  ---
-<!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
