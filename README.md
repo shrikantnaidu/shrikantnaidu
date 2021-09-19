@@ -26,8 +26,8 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 [<img align="left" alt="shrikantnaidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- [<img align="left" alt="shrikantnaidu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="shrikantnaidu | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="shrikantnaidu | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />][hackerearth]
-[<img align="left" alt="shrikantnaidu | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />][hackerrank]
+<!-- [<img align="left" alt="shrikantnaidu | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />][hackerearth]
+[<img align="left" alt="shrikantnaidu | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />][hackerrank] -->
 [<img align="left" alt="shrikantnaidu | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />][steam]
 <br />
 
