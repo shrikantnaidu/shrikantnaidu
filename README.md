@@ -29,7 +29,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 [<img align="left" alt="shrikantnaidu | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />][hackerearth]
 [<img align="left" alt="shrikantnaidu | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="shrikantnaidu | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />][steam]
-
+<br />
 
 ---
 
@@ -43,6 +43,10 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 [<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 [<img align="left" alt="Postgres" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgres]
 [<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
+
+
+
+<br />
 
 ---
 ### Repositories
@@ -71,6 +75,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 ![Shrikant's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikantnaidu&theme=gruvbox) 
 
 ---
+
 
 [linkedin]: https://www.linkedin.com/in/shrikant-naidu
 [kaggle]: https://www.kaggle.com/shrikantnaidu
