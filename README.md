@@ -4,7 +4,11 @@
 
 <!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
 
-I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.
+
+My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
 
 
 - 🔭 I’m currently working on Time Series Forecasting.
@@ -39,6 +43,7 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 [<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 [<img align="left" alt="Postgres" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgres]
 [<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
+
 
 
 <br />
