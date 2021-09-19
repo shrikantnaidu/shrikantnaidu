@@ -45,7 +45,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 [<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
 
 
-
+<br />
 <br />
 
 ---
