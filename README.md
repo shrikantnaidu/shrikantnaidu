@@ -16,7 +16,7 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 
 ---
 
-### Connect with me:
+### Social Profiles:
 
 [<img align="left" alt="shrikantnaidu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shrikantnaidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
