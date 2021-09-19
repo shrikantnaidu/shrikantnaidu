@@ -54,7 +54,6 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 
 <br />
 
- ---
 
 [linkedin]: https://www.linkedin.com/in/shrikant-naidu
 [kaggle]: https://www.kaggle.com/shrikantnaidu
