@@ -4,7 +4,7 @@
 
 <!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
 
-<img align="right" alt="GIF" src="https://github.com/shrikantnaidu/shrikantnaidu/blob/master/GIF.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/shrikantnaidu/shrikantnaidu/blob/master/GIF.gif" width="500" height="120" />
 
 I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.
 
