@@ -1,10 +1,10 @@
-### Hi there, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 --- 
 
 <!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
 
-<img align="right" alt="GIF" src="https://github.com/shrikantnaidu/shrikantnaidu/blob/master/GIF.gif" width="500" height="120" />
+<img align="right" alt="GIF" src="https://github.com/shrikantnaidu/shrikantnaidu/blob/master/GIF.gif" width="500" height="320" />
 
 I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.
 
