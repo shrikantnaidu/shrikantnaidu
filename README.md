@@ -11,8 +11,8 @@ I'm a Data Scientist who's passionately curious about the practicality of things
 My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
 
 
-- 🔭 I’m currently working on Time Series Forecasting.
-- 🌱 I’m currently learning Deep Learning and Time Series Forecasting.
+- 🔭 I’m currently working on Geospatial Analysis.
+- 🌱 I’m currently learning Deep Reinforcement Learning and MLOPs.
 - 👯 I’m looking to collaborate on Machine Learning ,Deep Learning and Data Engineering.
 - 🤔 I’m looking for help with Python for Finance.
 - 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Big Data.
