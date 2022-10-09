@@ -79,7 +79,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 
 [linkedin]: https://www.linkedin.com/in/shrikant-naidu
 [kaggle]: https://www.kaggle.com/shrikantnaidu
-[twitter]: https://twitter.com/sk_barcaholic
+[twitter]: https://twitter.com/sk_dataholic
 [hackerrank]: https://www.hackerearth.com/@shrikantnaidu777
 [hackerearth]: https://www.hackerrank.com/shrikantnaidu777
 [steam]: https://steamcommunity.com/id/shrikantnaidu/
