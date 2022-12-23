@@ -72,7 +72,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 | <a href="https://github.com/shrikantnaidu/github-readme-stats"><img align="center" src="https://github-readme-stats-pi-wine.vercel.app//api?username=shrikantnaidu&show_icons=true&theme=onedark&hide_border=true&count_private=true)" alt="Shrikant's github stats" /></a> | <a href="https://github.com/shrikantnaidu/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantnaidu&theme=gruvbox" /></a> |
 | ------------- | ------------- |
 
-![Shrikant's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikantnaidu&theme=gruvbox) 
+<!-- ![Shrikant's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikantnaidu&theme=gruvbox)  -->
 
 ---
 
