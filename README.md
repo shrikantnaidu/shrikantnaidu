@@ -35,7 +35,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Sci-kit Learn" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="Pytorch " /></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="36" height="36" alt="Spark" /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="36" height="36" alt="Spark" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="HF" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TF" /></a>
 
