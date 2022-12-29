@@ -1,98 +1,70 @@
-### Hi there, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+Hello there, I'm Shrikant ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+================================================================================================================================
 
---- 
-
-<!--  ![wew](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif) -->
-
+Data Scientist | Deep Learning Enthusiast | Gamer 
+--------------------------------------------
 <img align="right" alt="GIF" src="https://github.com/shrikantnaidu/shrikantnaidu/blob/master/GIF.gif" width="500" height="320" />
 
-I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems.
+I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems. 
 
 My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
 
-
-- 🔭 I’m currently working on Geospatial Analysis.
-- 🌱 I’m currently learning Deep Reinforcement Learning and MLOPs.
-- 👯 I’m looking to collaborate on Machine Learning ,Deep Learning and Data Engineering.
-- 🤔 I’m looking for help with Python for Finance.
-- 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Big Data.
-- ⚡ Fun fact: I'm a Gamer turned Programmer.
+* 🔭 I’m currently working on Geospatial Analysis.
+* 🧠  I'm learning Deep Reinforcement Learning and MLOPs.
+* 🤝  I'm open to collaborating on Machine Learning, Deep Learning and Data Engineering Projects.
+* ⚡ Fun fact: I'm a Gamer turned Programmer.
+* ✉️  You can contact me at [shrikantnaidu777@gmail.com](mailto:shrikantnaidu777@gmail.com)
 
 ---
+## Skills:
 
-### Social Profiles:
+#### Programming & Dev Toolset
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" /></a>
 
-[<img align="left" alt="shrikantnaidu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shrikantnaidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="shrikantnaidu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-[<img align="left" alt="shrikantnaidu | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][kaggle]
-<!-- [<img align="left" alt="shrikantnaidu | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />][hackerearth]
-[<img align="left" alt="shrikantnaidu | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />][hackerrank] -->
-[<img align="left" alt="shrikantnaidu | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />][steam]
-<br />
+<!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> -->
 
+#### Data Science Toolset
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" width="36" height="36" alt="Pandas" /></a>
+<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="36" height="36" alt="statsmodels" /></a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Sci-kit Learn" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="Pytorch " /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="36" height="36" alt="Spark" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="HF" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TF" /></a>
+
+<!-- #### X Toolset, add more relevant ones
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="36" height="36" alt="streamlit" /></a>
+<a href="https://gradio.app/" target="_blank" rel="noreferrer"><img src="https://gradio.app/assets/gradio.svg" width="36" height="36" alt="gradio" /></a>
+<a href="https://wandb.ai/fully-connected" target="_blank" rel="noreferrer"><img src="https://wandb.ai/logo-transparent.png" width="36" height="36" alt="wandb" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p> -->
 ---
 
-### Languages and Tools:
+## Socials:
+<!-- # add datacamp,insta, and other imp social profiles -->
 
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
-[<img align="left" alt="Tensorflow" width="32px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
-[<img align="left" alt="Pytorch" width="32px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][pytorch]
-[<img align="left" alt="Sklearn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][sklearn]
-[<img align="left" alt="Flask" width="32px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />][flask]
-[<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
-[<img align="left" alt="Postgres" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgres]
-[<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
-
-
-<br />
-<br />
+<p align="left"> 
+<a href="https://www.linkedin.com/in/shrikant-naidu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sk_dataholic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="32" height="32" /></a> -->
+<a href="https://www.kaggle.com/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" /></a>
+<a href="https://app.datacamp.com/profile/shrikantnaidu777" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32" height="32" /></a>
+<a href="https://steamcommunity.com/id/shrikantnaidu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="32" height="32" /></a>
+</p>
 
 ---
-### Repositories
+## GitHub Stats:
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrikantnaidu&repo=Deep-Learning-Nanodegree-Projects)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <b>My GitHub Stats</b> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrikantnaidu&repo=Data-Engineering-Nanodegree-Projects)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- https://github.com/shrikantnaidu/Data-Engineering-Nanodegree-Projects -->
-
-<a href="https://github.com/shrikantnaidu/Deep-Learning-Nanodegree-Projects">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shrikantnaidu&repo=Deep-Learning-Nanodegree-Projects&theme=onedark" />
-</a>
-<a href="https://github.com/shrikantnaidu/Data-Engineering-Nanodegree-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikantnaidu&repo=Data-Engineering-Nanodegree-Projects&theme=onedark" />
-</a>
+ | <a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-stats.vercel.app/api?username=shrikantnaidu&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="shrikantnaidu's GitHub stats" /></a> | <a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantnaidu&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a> |
+ | ------------- | ------------- |
 
 ---
-
-### GitHub Stats:
-
-
-| <a href="https://github.com/shrikantnaidu/github-readme-stats"><img align="center" src="https://github-readme-stats-pi-wine.vercel.app//api?username=shrikantnaidu&show_icons=true&theme=onedark&hide_border=true&count_private=true)" alt="Shrikant's github stats" /></a> | <a href="https://github.com/shrikantnaidu/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantnaidu&theme=gruvbox" /></a> |
-| ------------- | ------------- |
-
-<!-- ![Shrikant's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikantnaidu&theme=gruvbox)  -->
-
----
-
-
-[linkedin]: https://www.linkedin.com/in/shrikant-naidu
-[kaggle]: https://www.kaggle.com/shrikantnaidu
-[twitter]: https://twitter.com/sk_dataholic
-[hackerrank]: https://www.hackerearth.com/@shrikantnaidu777
-[hackerearth]: https://www.hackerrank.com/shrikantnaidu777
-[steam]: https://steamcommunity.com/id/shrikantnaidu/
-
-[python]:https://www.python.org
-[tensorflow]:https://www.tensorflow.org
-[pytorch]:https://pytorch.org/
-[sklearn]:https://scikit-learn.org/
-[flask]:https://flask.palletsprojects.com/
-[docker]:https://www.docker.com/
-[postgres]:https://www.postgresql.org
-[mongodb]:https://www.mongodb.com/
-
-<!-- [instagram]:  -->
- 
-<!-- ![Views](https://komarev.com/ghpvc/?username=shrikantnaidu) -->
+<!-- <a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shrikantnaidu&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
