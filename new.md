@@ -30,8 +30,8 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 
 #### Data Science Toolset
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="36" height="36" alt="Pandas" /></a>
-<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"><img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2-bw.svg" width="36" height="36" alt="statsmodels" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" width="36" height="36" alt="Pandas" /></a>
+<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="36" height="36" alt="statsmodels" /></a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Sci-kit Learn" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="Pytorch " /></a>
