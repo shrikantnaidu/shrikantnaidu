@@ -15,12 +15,12 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 * 🤔 I’m looking for help with Python for Finance.
 * 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Big Data.
 * ⚡ Fun fact: I'm a Gamer turned Programmer.
-* ✉️  You can contact me at [shrikantnaidu777@gmail.com](mailto:shrikantnaidu777@gmail.com)
+* ✉️ You can contact me at [shrikantnaidu777@gmail.com](mailto:shrikantnaidu777@gmail.com)
 
 ---
 ## Skills:
 
-#### Programming & Dev Toolset
+#### Programming & Development Toolset
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
