@@ -13,7 +13,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 * 🧠  I'm learning Deep Reinforcement Learning and MLOPs.
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning and Data Engineering Projects.
 * ⚡ Fun fact: I'm a Gamer turned Programmer.
-* ✉️  You can contact me at [shrikantnaidu777@gmail.com](mailto:shrikantnaidu777@gmail.com)
+* ✉️ You can contact me at [shrikantnaidu777@gmail.com](mailto:shrikantnaidu777@gmail.com)
 
 ---
 ## Skills:
