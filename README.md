@@ -58,7 +58,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 <a href="https://www.kaggle.com/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" /></a>
 <a href="https://app.datacamp.com/profile/shrikantnaidu777" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32" height="32" /></a>
 <a href="https://steamcommunity.com/id/shrikantnaidu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="32" height="32" /></a>
-<a href="https://wandb.ai/skn97" target="_blank" rel="noreferrer"><img src="https://site.wandb.ai/wp-content/uploads/2023/05/63bee4a1231a4318b921d672_logo.svg" width="100" height="35" /></a>
+<a href="https://wandb.ai/skn97" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-official.svg" width="100" height="35" /></a>
 <a href="https://huggingface.co/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
 
 </p>
