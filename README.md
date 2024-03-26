@@ -72,4 +72,4 @@ My fascination with computers led me to pursue a degree in Computer Science and 
  | ------------- | ------------- |
 
 ---
-<a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shrikantnaidu&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shrikantnaidu&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
