@@ -53,12 +53,14 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/shrikant-naidu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<!--  <a href="https://www.twitter.com/sk_dataholic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> -->
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="32" height="32" /></a> -->
-<!-- <a href="https://www.kaggle.com/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" /></a> -->
+ <a href="https://www.twitter.com/sk_dataholic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="32" height="32" /></a>
+<a href="https://www.kaggle.com/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" /></a>
 <a href="https://app.datacamp.com/profile/shrikantnaidu777" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32" height="32" /></a>
 <a href="https://steamcommunity.com/id/shrikantnaidu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="32" height="32" /></a>
-<a href="https://wandb.ai/skn97" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-official.svg" width="32" height="32" /></a>
+<a href="https://wandb.ai/skn97" target="_blank" rel="noreferrer"><img src="https://site.wandb.ai/wp-content/uploads/2023/05/63bee4a1231a4318b921d672_logo.svg" width="100" height="35" /></a>
+<a href="https://huggingface.co/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
+
 </p>
 
 ---
@@ -70,4 +72,4 @@ My fascination with computers led me to pursue a degree in Computer Science and 
  | ------------- | ------------- |
 
 ---
-<!-- <a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shrikantnaidu&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/shrikantnaidu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shrikantnaidu&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
