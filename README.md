@@ -1,21 +1,27 @@
 Hello there, I'm Shrikant ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
-Data Scientist | Tech Enthusiast | Gamer 
---------------------------------------------
+### Gamer | Programmer | Data Scientist  
+
 <img align="right" alt="GIF" src="https://github.com/shrikantnaidu/shrikantnaidu/blob/master/GIF.gif" width="500" height="320" />
 
-I'm a Data Scientist who's passionately curious about the practicality of things around me. I love building data-driven solutions for complex business problems. 
+As a gamer-turned-programmer, I blend my passion for technology and gaming with expertise in data-driven solutions. My journey began with gaming and evolved into a fulfilling career in Data Science and Engineering.
 
-My fascination with computers led me to pursue a degree in Computer Science and then my curiosity directed me towards Data Science.
+### About Me:
+- 🎮 **Gamer at Heart**: Gaming honed my problem-solving skills and shaped my love for technology.  
+- 💻 **Data Enthusiast**: I specialize in building robust data pipelines, implementing MLOps solutions, and engineering systems to tackle complex business challenges.  
+- 🧠 **Always Learning**: Exploring RLHF, LLMOps, and staying at the forefront of Machine Learning and Data Engineering advancements.  
 
-* 🔭  I’m currently working on MLOps, Data Engineering, and LLMs.
-* 🧠  I'm learning RLHF and LLMOPs.
-* 🤝  I'm open to collaborating on Machine Learning, Deep Learning, and Data Engineering Projects.
-* 🤔 I’m looking for help with Python for Finance.
-* 💬 Ask me about Software Engineering, Machine Learning, Deep Learning, and Big Data.
-* ⚡ Fun fact: I'm a Gamer turned Programmer.
-* ✉️ You can contact me at [shrikantnaidu777@gmail.com](mailto:shrikantnaidu777@gmail.com)
+### What I’m Working On:
+- 🚀 Designing scalable data solutions for real-world problems.  
+- 🛠️ Building end-to-end Machine Learning workflows and MLOps pipelines.  
+- 📊 Exploring the intersection of Data Engineering, Big Data, and cutting-edge AI.  
+
+### Fun Fact:  
+I’m a gamer who transitioned from gaming sessions to coding marathons!
+
+### Let’s Connect:  
+📧 Email me at **shrikantnaidu777@gmail.com**  
 
 ---
 ## Skills:
@@ -31,7 +37,7 @@ My fascination with computers led me to pursue a degree in Computer Science and 
 
 #### Data Science Toolset
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" width="36" height="36" alt="Pandas" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="36" height="36" alt="Pandas" /></a>
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="36" height="36" alt="statsmodels" /></a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Sci-kit Learn" /></a>
