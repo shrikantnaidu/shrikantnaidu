@@ -59,7 +59,7 @@ I’m a gamer who transitioned from gaming sessions to coding marathons!
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/shrikant-naidu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<!--  <a href="https://www.twitter.com/sk_dataholic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> -->
+ <a href="https://x.com/shrikantnaiidu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="32" height="32" /></a> -->
 <!-- <a href="https://www.kaggle.com/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" /></a> -->
 <a href="https://app.datacamp.com/profile/shrikantnaidu777" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32" height="32" /></a>
