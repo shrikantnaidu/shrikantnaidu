@@ -23,7 +23,7 @@ I’m a gamer who transitioned from gaming sessions to coding marathons!
 ### Let’s Connect:  
 📧 Email me at **shrikantnaidu777@gmail.com**  
 
----
+<!-- ---
 ## Skills:
 
 #### Programming & Development Toolset
@@ -49,7 +49,7 @@ I’m a gamer who transitioned from gaming sessions to coding marathons!
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="36" height="36" alt="Spark" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="HF" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TF" /></a>
-</p>
+</p> -->
 
 <!-- #### X Toolset, add more relevant ones
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="36" height="36" alt="streamlit" /></a>
@@ -59,18 +59,18 @@ I’m a gamer who transitioned from gaming sessions to coding marathons!
 </p> -->
 ---
 
-## Socials:
+<!-- ## Socials:
 <!-- # add datacamp,insta, and other imp social profiles -->
-
+<!-- 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/shrikant-naidu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="https://x.com/shrikantnaiidu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ <a href="https://x.com/shrikantnaiidu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  -->
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="32" height="32" /></a> -->
 <!-- <a href="https://www.kaggle.com/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" /></a> -->
 <!-- <a href="https://app.datacamp.com/profile/shrikantnaidu777" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32" height="32" /></a> -->
-<a href="https://steamcommunity.com/id/shrikantnaidu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="32" height="32" /></a>
+<!-- <a href="https://steamcommunity.com/id/shrikantnaidu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="32" height="32" /></a>
 <!-- <a href="https://wandb.ai/skn97" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-official.svg" width="100" height="35" /></a> -->
-<a href="https://huggingface.co/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
+<!-- <a href="https://huggingface.co/shrikantnaidu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a> --> -->
 
 </p>
 
